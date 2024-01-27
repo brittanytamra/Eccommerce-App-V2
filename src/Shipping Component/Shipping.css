@@ -1,0 +1,185 @@
+.row-column {
+    margin-top: 25%;
+    margin-left: 8%;
+}
+
+.row-image {
+    display:flex;
+}
+
+
+.icon {
+    margin-left: 6.9%;
+}
+
+
+.fa-whatsapp {
+   font-size: 30px;
+  
+}
+
+
+
+
+.gift p {
+    margin-left: 5%;
+    font-size: 12px;
+}
+
+.gift-text p {
+    margin-left: -5%;
+    font-size: 12px;
+    font-style: italic;
+}
+
+
+
+.gift-text2 p {
+    margin-left: 4.5%;
+    font-size: 12px;
+    font-style: italic;
+}
+
+
+
+
+
+
+.row-column3 {
+    margin-left: 27%;
+    margin-top: -124px;
+}
+
+
+
+.icon3 {
+    margin-left: 6%;
+  
+
+}
+
+
+.fa-magic {
+    font-size: 30px;
+    margin-left: 22%;
+}
+
+
+
+
+.gift3 p {
+    margin-left: 23%;
+    font-size: 12px;
+    
+}
+
+.gift-text3 p {
+    margin-left: 11.5%;
+    font-size: 12px;
+    
+}
+
+
+.gift-text-3 {
+    margin-left: 10px;
+}
+
+
+
+.gift-text-3 p {
+    margin-left: 23%;
+    font-size: 12px;
+    
+}
+
+
+
+
+
+
+.row-column4 {
+    margin-left: 58%;
+    margin-top: -78px;
+}
+
+
+.icon4 {
+    margin-left: 43%;
+}
+
+
+.fa-smile {
+    font-size: 30px;
+
+}
+
+
+
+
+.gift4 p {
+    margin-left: 35%;
+    font-size: 12px;
+    
+}
+
+.gift-text4 p {
+    margin-left: 19.5%;
+    font-size: 12px;
+    
+}
+
+
+.gift-text-4 {
+    margin-left: 5px;
+}
+
+
+
+.gift-text-4 p {
+    margin-left: 39.5%;
+    font-size: 12px;
+    
+}
+
+
+
+
+
+
+
+.row5 {
+    margin-top: 5%;
+    margin-left: -40%;
+}
+
+.column5 {
+    float: left;
+    width: 26.33%;
+    padding: 5px;
+}
+
+.column5 img {
+    width: 531px;
+    margin-left: 82%;
+}
+
+.row5::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+.button5 {
+    margin-left: 37%;
+    border: 2px solid#DCDCDC;
+    padding: 12px 33px;
+    margin-right: 47%;
+    margin-top: 4%
+}
+
+.button5 a {
+    text-decoration: none;
+    color: black;
+    margin-left: 10%;
+}

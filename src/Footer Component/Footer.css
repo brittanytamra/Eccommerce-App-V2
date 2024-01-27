@@ -1,0 +1,692 @@
+
+
+footer {
+    background-color: black;
+    height: 660px;
+    margin-top: 11.5%;
+    margin-left: -12%;
+  
+    }
+  
+  
+    .footer-content {
+        padding-top: 7%;
+    }
+  
+    .footer-content h1 {
+        color: #FFD700;
+        font-size: 14px;
+        margin-left: 16%;
+        margin-bottom: 2%;
+    }
+  
+  
+    .footer-content2 {
+        margin-left: 16%;
+    
+  }
+  
+  
+  .footer-content3 {
+    margin-left: 16%;
+     
+  }
+  
+  
+  .footer-content4 {
+    margin-left: 16%;
+     
+  }
+  
+  
+  .footer-content5 {
+      margin-left: 16%;
+     
+  }
+  
+  
+  
+  
+  
+  .footer-content2 p {
+      color:#808080;
+      font-size: 13px;
+  }
+  
+  
+  .footer-content3 p {
+      color: #808080;
+      font-size: 13px;
+  }
+  
+  
+  .footer-content4 p {
+      color: #808080;
+      font-size: 13px;
+  }
+  
+  
+  .footer-content4 p {
+      color: #808080;
+      font-size: 13px;
+  }
+  
+  
+  
+  
+  .footer-content5 p {
+      color: #808080;
+      font-size: 13px;
+  }
+  
+  
+  .footer-content6 {
+      margin-left: -9.5%;
+  }
+  
+  
+  
+  .footer-content6 p {
+      color: #808080;
+      font-size: 13px;
+  }
+  
+  
+  
+  
+  
+  
+  .footer-logo {
+      margin-left: 16%;
+      margin-top: 2%;
+  
+  }
+  
+  .vertical-line {
+      border-left: 6px solid #808080;
+      border-width: thin;
+      height: 310px;
+      position: relative;
+      /* left: 50%; */
+      margin-left: 41%;
+      margin-top: -18%;
+     
+  }
+  
+  
+  .links {
+      margin-left: 40%;
+      margin-top: -17%;
+  }
+  
+  
+  .links hr {
+      margin-left: 64px;
+      margin-right: 91%;
+     border-width: 1px;
+     border-color: #FFD700;
+  } 
+  
+  
+  .links2 {
+      margin-left: 40%;
+      padding-top: 1.5%;
+  
+  }
+  
+  
+  .links3 {
+      margin-left: 40%;
+      padding-top: 1.5%;
+     
+  }
+  
+  
+  .links4 {
+      margin-left: 40%;
+      padding-top: 1.5%;
+   
+  }
+  
+  
+  .links5 {
+      margin-left: 40%;
+      padding-top: 1.5%;
+    
+  }
+  
+  
+  .links6 {
+      margin-left:40%;
+      padding-top: 1.5%;
+  }
+  
+  
+  .links7 {
+      margin-left: 40%;
+      padding-top: 1.5%;
+  
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  .links li {
+      font-size: 14px;
+     
+  
+  }
+  
+  
+  .links2 li {
+      font-size: 12px;
+  }
+  
+  
+  .links3 li {
+      font-size: 12px;
+  }
+  
+  
+  .links4 li {
+      font-size: 12px;
+  }
+  
+  
+  .links5 li {
+      font-size: 12px; 
+  }
+  
+  
+  .links6 li {
+      font-size: 12px;
+  }
+  
+  .links7 li {
+      font-size: 12px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  .links li a {
+      text-decoration: none;
+      color: white;
+      }
+      
+      
+      .links2 li a {
+          color: #808080;
+  
+      }
+      
+      
+      .links3 li a {
+          color: #808080;
+      }
+      
+      
+      .links4 li a {
+          color: #808080;
+          
+      }
+      
+      
+      .links5 li a {
+          color: #808080;
+          
+      }
+      
+      
+      .links6 li a {
+          color: #808080;
+          
+      }
+      
+      .links7 li a {
+          color: #808080;
+          
+      }
+  
+  
+  
+  
+  
+  
+  
+  
+      .links li a:hover {
+          text-decoration: none;
+          color: #FFD700;
+       }
+          
+          
+       .links2 li a:hover  {
+         text-decoration: none;
+          color: #FFD700;
+       }
+          
+          
+      .links3 li a:hover  {
+           text-decoration: none;
+           color: #FFD700;
+      }
+          
+          
+       .links4 li a:hover  {
+          text-decoration: none;
+          color: #FFD700;
+       }
+          
+          
+       .links5 li a:hover  {
+          text-decoration: none;
+          color: #FFD700;
+      }
+          
+          
+      .links6 li a:hover  {
+          text-decoration: none;
+           color: #FFD700;
+      }
+          
+       .links7 li a:hover  {
+          text-decoration: none;
+          color: #FFD700; 
+      }
+  
+  
+  
+  
+      .vertical-line2 {
+          border-left: 6px solid #808080;
+          border-width: thin;
+          height: 310px;
+          position: relative;
+          left: 0%;
+          margin-left: 54%;
+          margin-top: -18%;
+         
+      }
+  
+      .twitter {
+          margin-left: 55%;
+          margin-top: -17.5%;
+      }
+  
+  
+      .twitter li {
+          font-size: 14px;
+         
+      
+      }
+  
+  
+      .twitter li a {
+          text-decoration: none;
+          color: white;
+      }
+  
+  
+      .twitter li a:hover {
+          text-decoration: none;
+          color: #FFD700;
+       }
+          
+  
+  
+      .twitter hr {
+          margin-left: 64px;
+          margin-right: 88%;
+         border-width: 1px;
+         border-color: #FFD700;
+      } 
+  
+  
+  
+  
+  
+      .twitter-content p {
+          font-size: 12px;
+          color: #808080;
+          margin-left: 59%;
+          padding-top: 1.5%;
+          
+      }
+  
+      .twitter-content2 p {
+          font-size: 12px;
+          color: #808080;
+          margin-left: 59%;
+          line-height: 0.5;
+      }
+  
+  
+      .twitter-content3 p {
+          font-size: 12px;
+          color: #808080;
+          margin-left: 59%;
+          line-height: 0.5;
+      }
+  
+  
+      .twitter-content4 p {
+          font-size: 12px;
+          color: #808080;
+          margin-left: 59%;
+          line-height: 0.5;
+      }
+  
+  
+      .twitter-content5 p {
+          font-size: 12px;
+          color: #808080;
+          margin-left: 59%;
+          line-height: 0.5;
+      }
+  
+  
+      .twitter-content6 p {
+          font-size: 12px;
+          color: #808080;
+          margin-left: 59%;
+          line-height: 0.5;
+      }
+  
+  
+      .twitter-content7 p {
+          font-size: 12px;
+          color: #808080;
+          margin-left: 59%;
+          line-height: 0.5;
+      }
+  
+  
+      .twitter-content8 p {
+          font-size: 12px;
+          color: #808080;
+          margin-left: 59%;
+          line-height: 0.5;
+      }
+  
+      .twitter-content9 p {
+          font-size: 12px;
+          color: #808080;
+          margin-left: 59%;
+          line-height: 0.5;
+      }
+  
+  
+  
+  
+      .vertical-line3 {
+          border-left: 6px solid #808080;
+          border-width: thin;
+          height: 310px;
+          position: relative;
+          /* left: 19%; */
+          margin-left: 75%;
+          margin-top: -21.5%;
+       
+         
+      }
+  
+  
+      .ig {
+          margin-left: 75.7%;
+          margin-top: -17%;
+      }
+  
+  
+  
+      .ig li {
+          font-size: 14px;
+         
+      
+      }
+  
+  
+      .ig li a {
+          text-decoration: none;
+          color: white;
+      }
+  
+  
+      .ig li a:hover {
+          text-decoration: none;
+          color: #FFD700;
+       }
+          
+  
+  
+      .ig hr {
+          margin-left: 64px;
+          margin-right: 78%;
+         border-width: 1px;
+         border-color: #FFD700;
+      }
+  
+  
+  
+  
+  
+     .ig-image {
+          margin-left: 72.5%;
+          
+      }
+  
+  
+  
+  
+      .ig-row {
+          margin-top: 1.9%;
+          margin-left: 79.5%;
+      }
+  
+      
+      .ig-column {
+          float: left;
+          /*width: 30.33%;*/
+          padding: 5px;
+      }
+  
+  
+  
+      .ig-column2 {
+          float: left;
+          padding: 5px;
+      }
+  
+  
+      .ig-column3 {
+          float: left;
+          padding: 5px;
+      }
+  
+  
+  
+      .ig-column a:hover {
+          background-color: #FFD700;
+  
+        }
+  
+  
+  
+        .ig-column2 a:hover {
+          background-color: #FFD700;
+  
+        }
+  
+  
+        .ig-column3 a:hover {
+          background-color: #FFD700;
+  
+        }
+  
+  
+  
+      
+  
+      
+      .ig-row::after {
+          content: "";
+          clear: both;
+          display: table;
+        }
+  
+  
+  
+        .ig-row2 {
+          margin-top: 1%;
+          margin-left: 79.5%;
+      }
+  
+  
+      .ig-column4 {
+          float: left;
+          padding: 5px;
+      }
+  
+  
+      .ig-column5 {
+          float: left;
+      
+          padding: 5px;
+      }
+  
+  
+      .ig-column6 {
+          float: left;
+          padding: 5px;
+      }
+  
+  
+      .ig-column4 a:hover {
+          background-color: #FFD700;
+  
+        }
+  
+  
+        .ig-column5 a:hover {
+          background-color: #FFD700;
+  
+        }
+  
+  
+        .ig-column6 a:hover {
+          background-color: #FFD700;
+  
+        }
+  
+  
+  
+      
+      .ig-row2::after {
+          content: "";
+          clear: both;
+          display: table;
+        }
+  
+  
+  
+  
+     
+  
+  
+  
+  
+      .twitter-feed  {
+          color:  #808080;
+          margin-left: 63%;
+          padding-top: 1%;
+          font-size: 10px;
+      }
+  
+      .twitterp {
+          color:  #808080; 
+          margin-top: -24px;
+          font-size: 12px;
+      }
+  
+  
+       .twitterp2{
+          padding-top: 0.5%;
+          margin-top: -35px;
+          margin-left: 24%;
+           font-size: 12px; 
+      } 
+  
+  
+      .twitter-feed2 {
+          margin-left: 52%;
+          padding-top: 1%;
+          font-size: 10px;
+          
+      }
+  
+      .twitter-feed2 p {
+          color:  #808080;
+          margin-top: 19px;
+         
+      }
+  
+  
+  
+  
+      .copyright {
+          padding-top: 8%;
+          margin-left: 16%;
+      }
+  
+  
+      .copyright p {
+        color:  #808080;
+        font-size: 10px;
+  
+      }
+  
+  
+  
+  
+  
+   .social-links {
+      margin-left: 72%;
+      margin-top: -25px;
+   }   
+       
+    
+  .fa-facebook-f {
+      color:  #808080;
+  }
+  
+  .fa-twitter {
+      color:  #808080;
+      padding-left: 60px;
+  }
+  
+  
+  .fa-behance {
+      color:  #808080;
+      padding-left: 60px;
+  }
+  
+  
+  .fa-pinterest-p {
+      color:  #808080;
+      padding-left: 60px;
+  }
+  
+  
+  .fa-google-plus-g {
+      color:  #808080;
+      padding-left: 60px;
+  }
+
+
